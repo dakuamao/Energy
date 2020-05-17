@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Zhao-Yong Sun
+## Personal Information
+- Address: School of Economics & Management, Xi’an University of Technology, No.53, Yanxiang Road, Xi’an, Shaanxi, China
+- Telephone: (+86)13363974219
+- Email: sunzhaoyong@xaut.edu.cn
+- Date and Place of Birth: Nov 11, 1978, Shanxi Province, China
 
-You can use the [editor on GitHub](https://github.com/dakuamao/Energy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Current Position
+Associate Professor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- PH.D. in Economics, Northwest University, China, 2014
+- M.A. in Economics, Sichuan University, China, 2005
+- B.S. in Mathematics, Taiyuan Normal University, China,2001
 
-### Markdown
+## Main Areas of Research
+Energy Finance; Economic Growth; DSGE Modeling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dakuamao/Energy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
